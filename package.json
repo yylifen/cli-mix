@@ -1,0 +1,28 @@
+{
+  "name": "mix",
+  "version": "0.0.1",
+  "description": "【CLI】不想成为配置工程师的梦想听说可以在这里实现……",
+  "main": "index.js",
+  "bin": {
+    "mix": "bin/mix.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yylifen/cli-mix.git"
+  },
+  "keywords": [],
+  "author": "lifen9306@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yylifen/cli-mix/issues"
+  },
+  "homepage": "https://github.com/yylifen/cli-mix#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "shelljs": "^0.8.3"
+  }
+}
