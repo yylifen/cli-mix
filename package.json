@@ -1,5 +1,5 @@
 {
-  "name": "mix",
+  "name": "@yylifen/mix",
   "version": "0.0.1",
   "description": "【CLI】不想成为配置工程师的梦想听说可以在这里实现……",
   "main": "index.js",
